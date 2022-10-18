@@ -6,11 +6,10 @@
 /*   By: yusyamas <yuppiy2000@icloud.com>           +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/17 23:58:53 by yusyamas          #+#    #+#             */
-/*   Updated: 2022/10/18 13:07:34 by yusyamas         ###   ########.fr       */
+/*   Updated: 2022/10/18 13:16:35 by yusyamas         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h>
 #define FT_NULL '\0'
 
 unsigned int	ft_strlen(char *str)

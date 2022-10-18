@@ -6,11 +6,10 @@
 /*   By: yusyamas <yuppiy2000@icloud.com>           +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/17 22:27:52 by yusyamas          #+#    #+#             */
-/*   Updated: 2022/10/17 23:53:24 by yusyamas         ###   ########.fr       */
+/*   Updated: 2022/10/18 13:16:28 by yusyamas         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h>
 #include <unistd.h>
 #define FT_NULL '\0'
 
